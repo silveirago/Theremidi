@@ -21,7 +21,7 @@ Material:
 - Oled Display: https://amzn.to/2LvnPB6
 - Button that fits in 10mm hole (haven't found a link yet)
 
-Patreon: https://www.patreon.com/musiconerd
-Blog: http://www.musiconerd.com
-Facebook: https://www.facebook.com/musiconerdmusiconerd
-Instagram: http://www.instagram.com/musiconerd
+- Patreon: https://www.patreon.com/musiconerd
+- Blog: http://www.musiconerd.com
+- Facebook: https://www.facebook.com/musiconerdmusiconerd
+- Instagram: http://www.instagram.com/musiconerd
