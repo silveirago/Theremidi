@@ -1,8 +1,8 @@
 # Theremidi
 
-➡️ Full video: https://youtu.be/CWPtxGrBlU8
-➡️ Making Music with Arduino: https://nerdmusician.teachable.com/p/making-music-with-arduino
-➡️ Curso Fazendo Música com Arduino em Português: https://www.musiconerd.com/curso-completo
+- Full video: https://youtu.be/CWPtxGrBlU8
+- Making Music with Arduino: https://nerdmusician.teachable.com/p/making-music-with-arduino
+- Curso Fazendo Música com Arduino em Português: https://www.musiconerd.com/curso-completo
 
 In this video, I am going to show you the Theremidi, a DIY MIDI Theremin, made using an Arduino Pro Micro!
 
@@ -16,10 +16,10 @@ There's also an OLED display and some buttons that allow you to change octave, t
 
 Material:
 
-➡️ Arduino Pro Micro: https://amzn.to/2Vcz3Nz
-➡️ Sharp GP2Y0A41SK0F: https://amzn.to/3biVfha
-➡️ Oled Display: https://amzn.to/2LvnPB6
-➡️ Button that fits in 10mm hole (haven't found a link yet)
+- Arduino Pro Micro: https://amzn.to/2Vcz3Nz
+- Sharp GP2Y0A41SK0F: https://amzn.to/3biVfha
+- Oled Display: https://amzn.to/2LvnPB6
+- Button that fits in 10mm hole (haven't found a link yet)
 
 Patreon: https://www.patreon.com/musiconerd
 Blog: http://www.musiconerd.com
