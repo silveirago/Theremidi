@@ -18,7 +18,7 @@ Material:
 
 - Arduino Pro Micro: https://amzn.to/2Vcz3Nz
 - Sharp GP2Y0A41SK0F: https://amzn.to/3biVfha
-- Oled Display: https://amzn.to/2LvnPB6
+- Oled Display: https://www.amazon.com/gp/product/B07QW95L1B/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
 - Button that fits in 10mm hole (haven't found a link yet)
 
 
